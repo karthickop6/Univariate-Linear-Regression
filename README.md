@@ -48,9 +48,9 @@ plt.show()
 
 ```
 ## Output
-![](./Screenshot from 2023-01-26 10-30-12.png)
+![](./Screenshot%20from%202023-01-26%2010-30-00.png)
 
-![](./Screenshot from 2023-01-26 10-30-00.png)
+![](./Screenshot%20from%202023-01-26%2010-30-00.png)
 
 
 ## Result
